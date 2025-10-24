@@ -17,19 +17,19 @@ I am a computer science student. I have knowledge of frontend and backend techno
 Java · Spring Framework (Spring Boot, Spring Security) · REST API · Maven  
 
 ### 🗄️ Databases
-SQL (PostgreSQL)
+SQL (PostgreSQL, MySQL)
 
 ### 🎨 Frontend
 HTML · CSS · JavaScript
 
 ### 🧪 Testing
-JUnit · Mockito
+JUnit · TestNG
 
 ### ⚙️ Tools & DevOps
-Git · Docker · Postman · Linux
+Git · Docker · Postman · 
 
 ### 🔁 Methodologies
-Agile (Scrum) · Jira
+Agile (Scrum, Kanban) · Jira
 
 
 
