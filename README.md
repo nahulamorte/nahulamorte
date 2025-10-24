@@ -11,14 +11,25 @@ I am a computer science student. I have knowledge of frontend and backend techno
 * 🧠  I'm currently learning JAVA, Spring and Angular JS.
 * 💬  Ask me about I am working in UNICEN as an assistant professor.
 
-🛠️ Technical Skills
-Backend: Java, Spring Framework (Spring Boot, Spring Security), REST API, Maven.
-Databases: SQL (PostgreSQL, MySQL).
-Frontend: HTML, CSS, JavaScript.
-Tools & DevOps: Git, Docker, Postman.
-Methodologies: Agile (Scrum, Kanban), Jira
-Testing: JUnit, TestNG
+## 🧰 Technical Skills
 
+### 🖥️ Backend
+Java · Spring Framework (Spring Boot, Spring Security) · REST API · Maven  
+
+### 🗄️ Databases
+SQL (PostgreSQL)
+
+### 🎨 Frontend
+HTML · CSS · JavaScript
+
+### 🧪 Testing
+JUnit · Mockito
+
+### ⚙️ Tools & DevOps
+Git · Docker · Postman · Linux
+
+### 🔁 Methodologies
+Agile (Scrum) · Jira
 
 
 
