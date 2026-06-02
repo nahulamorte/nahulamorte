@@ -9,12 +9,15 @@ I am a computer science student. I have knowledge of frontend and backend techno
 * 🌍  I'm based in Tandil, Argentina.
 * ✉️  You can contact me at [nahuellamorte@gmail.com](mailto:nahuellamorte@gmail.com )
 * 🧠  I'm currently learning JAVA, Spring and Angular JS.
-* 💬  Ask me about I am working in UNICEN as an assistant professor.
+* 💬  Ask me about I'm worked in UNICEN as an assistant professor.
 
 ## 🧰 Technical Skills
 
 ### 🖥️ Backend
 Java · Spring Framework (Spring Boot, Spring Security) · REST API · Maven  
+
+### 📊 Data Analyst
+Python . Pandas . Numpy + SQL
 
 ### 🗄️ Databases
 SQL (PostgreSQL, MySQL)
