@@ -1,20 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Nahuel Lamorte
 =======================================================================================================================================
 
-Full Stack developer & Data Analyst.
+Full Stack developer & Data Engineer.
 ------------------------------------
 
-I am a computer science student. I have knowledge of frontend and backend technologies. My curiosity and desire to learn have led me to learn different technologies, including data analysis.
+I'm software developer & Data Engineer. I have knowledge of frontend and backend technologies. My curiosity and desire to learn have led me to learn different technologies, including electronics.
 
 * 🌍  I'm based in Tandil, Argentina.
 * ✉️  You can contact me at [nahuellamorte@gmail.com](mailto:nahuellamorte@gmail.com )
-* 🧠  I'm currently learning JAVA, Spring and Angular JS.
+* 🧠  I'm currently doing a professional internship with the Loberia government
 * 💬  Ask me about I'm worked in UNICEN as an assistant professor.
 
 ## 🧰 Technical Skills
 
 ### 🖥️ Backend
-Java · Spring Framework (Spring Boot, Spring Security) · REST API · Maven  
+Java · Spring Framework (Spring Boot, Spring Security) · REST API · Maven · Node js · Nest js  
 
 ### 📊 Data Analyst
 Python . Pandas . Numpy + SQL
@@ -23,13 +23,13 @@ Python . Pandas . Numpy + SQL
 SQL (PostgreSQL, MySQL)
 
 ### 🎨 Frontend
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript · React   
 
 ### 🧪 Testing
-JUnit · TestNG
+JUnit · TestNG · Mockito
 
 ### ⚙️ Tools & DevOps
-Git · Docker · Postman · 
+Git · Docker · Postman · AWS · Linux 
 
 ### 🔁 Methodologies
 Agile (Scrum, Kanban) · Jira
